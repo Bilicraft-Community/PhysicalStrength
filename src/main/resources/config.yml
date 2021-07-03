@@ -1,0 +1,12 @@
+strength: 1200
+recover: 4
+cooldown: 5000
+
+consume:
+  elytra: 1
+  sprinting: 2
+  swim: 2
+
+color:
+  red: 100
+  yellow: 600

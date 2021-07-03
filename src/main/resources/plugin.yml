@@ -1,0 +1,9 @@
+name: PhysicalStrength
+version: ${project.version}
+main: com.bilicraft.physicalstrength.PhysicalStrength
+api-version: 1.17
+description: 体力条
+permissions:
+  physicalstrength.bypass:
+    description: 绕过体力限制
+    default: op
